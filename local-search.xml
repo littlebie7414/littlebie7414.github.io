@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>05.Hexo-GithubPage</title>
+    <link href="/02-Learning-Notes/05.Hexo-GithubPage.html"/>
+    <url>/02-Learning-Notes/05.Hexo-GithubPage.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>git bash配置SSH登录,用于git push</p><p>nodejs<a href="https://nodejs.org/zh-cn/download">下载 | Node.js (nodejs.org)</a><br>nodejs插件</p><figure class="highlight gauss"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs gauss">npm install <span class="hljs-built_in">moment</span>-timezone --<span class="hljs-keyword">save</span><br></code></pre></td></tr></table></figure><p>hexo</p><figure class="highlight cmake"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs cmake">npm <span class="hljs-keyword">install</span> hexo-cli -g<br>npm <span class="hljs-keyword">install</span> hexo-deployer-git --save<br></code></pre></td></tr></table></figure><p>创建hexo项目</p><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs mipsasm">hexo init hexo-<span class="hljs-keyword">blog </span> <br>cd hexo-<span class="hljs-keyword">blog </span> <br></code></pre></td></tr></table></figure><p>安装自动插件</p><figure class="highlight gauss"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs gauss">npm install hexo-auto-category --<span class="hljs-keyword">save</span><br>npm install hexo-filename-<span class="hljs-built_in">title</span> --<span class="hljs-keyword">save</span><br></code></pre></td></tr></table></figure><p>安装主题</p><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs ada">npm install css <span class="hljs-comment">--save</span><br>npm install hexo-theme-fluid <span class="hljs-comment">--save</span><br></code></pre></td></tr></table></figure><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><h3 id="fluid主题"><a href="#fluid主题" class="headerlink" title="fluid主题"></a>fluid主题</h3><ol><li>创建_config.fluid.yml文件</li><li>填入config</li><li>创建about<figure class="highlight haxe"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs haxe">hexo <span class="hljs-keyword">new</span> <span class="hljs-type">page</span> about<br></code></pre></td></tr></table></figure></li><li>添加&#x2F;source&#x2F;about&#x2F;index.md内容</li><li>配置config.yml和config.fluid.yml</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>02.Learning Notes</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>毕业就业</title>
     <link href="/06-Projects/%E6%AF%95%E4%B8%9A%E5%B0%B1%E4%B8%9A.html"/>
     <url>/06-Projects/%E6%AF%95%E4%B8%9A%E5%B0%B1%E4%B8%9A.html</url>
@@ -312,7 +331,7 @@
     <link href="/07-Environment-deploy/Qt.html"/>
     <url>/07-Environment-deploy/Qt.html</url>
     
-    <content type="html"><![CDATA[<ol><li><a href="https://mirrors.tuna.tsinghua.edu.cn/qt/development_releases/online_installers/">安装</a> <ol><li>在线安装<ol><li>管理员运行安装包</li><li>账密：<a href="mailto:&#50;&#x32;&#x36;&#50;&#57;&#x34;&#55;&#x30;&#x31;&#x35;&#64;&#x6f;&#x75;&#116;&#108;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;">&#50;&#x32;&#x36;&#50;&#57;&#x34;&#55;&#x30;&#x31;&#x35;&#64;&#x6f;&#x75;&#116;&#108;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;</a><br> Tt1012811367</li><li>组件清单换清华源<a href="https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/">https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/</a></li><li>网络出错时<del>download.qt.io</del>，挂梯子。</li></ol></li><li>源码编译安装</li></ol></li><li><a href="https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/">维护</a></li><li>添加到vs</li></ol>]]></content>
+    <content type="html"><![CDATA[<ol><li><a href="https://mirrors.tuna.tsinghua.edu.cn/qt/development_releases/online_installers/">安装</a> <ol><li>在线安装<ol><li>管理员运行安装包</li><li>账密：<a href="mailto:&#x32;&#x32;&#x36;&#x32;&#57;&#52;&#55;&#48;&#49;&#53;&#64;&#111;&#117;&#116;&#108;&#111;&#x6f;&#x6b;&#46;&#99;&#111;&#x6d;">&#x32;&#x32;&#x36;&#x32;&#57;&#52;&#55;&#48;&#49;&#53;&#64;&#111;&#117;&#116;&#108;&#111;&#x6f;&#x6b;&#46;&#99;&#111;&#x6d;</a><br> Tt1012811367</li><li>组件清单换清华源<a href="https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/">https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/</a></li><li>网络出错时<del>download.qt.io</del>，挂梯子。</li></ol></li><li>源码编译安装</li></ol></li><li><a href="https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/">维护</a></li><li>添加到vs</li></ol>]]></content>
     
     
     <categories>
