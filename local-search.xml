@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>毕业就业</title>
+    <link href="/06-Projects/%E6%AF%95%E4%B8%9A%E5%B0%B1%E4%B8%9A.html"/>
+    <url>/06-Projects/%E6%AF%95%E4%B8%9A%E5%B0%B1%E4%B8%9A.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h1><ol><li>停止毕业生就业报到证</li><li><a href="https://www.ncss.cn/">https://www.ncss.cn</a></li><li><a href="https://hbut.91wllm.com/">https://hbut.91wllm.com</a></li><li>Java 后端，感知算法，上位机socket</li><li><a href="https://www.bilibili.com/video/BV1ZM411P7sX/?spm_id_from=333.851.b_7265636f6d6d656e64.6&vd_source=2e37f3cd0a2876ad63ade79c22686d99">应届生找工作的五种渠道，不要只会用BOSS直聘！_哔哩哔哩_bilibili</a></li><li>感知算法</li><li><a href="https://join.tencent-cloud.com/">https://join.tencent-cloud.com</a></li><li><a href="https://careers.oppo.com/campus">校园招聘 (oppo.com)</a></li><li>websocket web聊天室</li><li>算法工程师</li><li>数据结构工程师</li><li>攻防对抗</li><li>软件开发工程师</li><li>Java后端</li><li>C&#x2F;C++开发工程师</li><li><a href="https://www.nowcoder.com/jobs/recommend/campus">https://www.nowcoder.com/jobs/recommend/campus</a></li><li>SQL+报表</li></ol><h1 id="面试经验"><a href="#面试经验" class="headerlink" title="面试经验"></a>面试经验</h1><ol><li>北京捷泰云际–数据库<ol><li>我的擅长：C++、网络安全</li><li>他的需求：数据库基础，快速上手能力</li><li>提出问题：理论&#x2F;书本：数据库范式，更偏理论，<code>书本很重要</code><br>      实操：数据库查询，having,只有<code>多用才做的出来</code><ol start="4"><li>我的缺点：<ol><li>面试经验不足，紧张导致忘事</li><li>面对问题不加仔细思考，想快点答题，导致改错频繁，出错较多。</li><li>理论知识不扎实，实操经验太少。<code>要学深</code> <code>多实践</code> 。</li></ol></li></ol></li><li>#总结： <ol><li>基础理论知识学扎实，学深入</li><li>实操多上手，结合实际场景才能成为能力</li><li>积累为人处事经验，减少紧张心理</li><li>对问题多加思考再回答，减少改错次数</li><li>针对性地学习</li></ol></li></ol></li><li></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>06.Projects</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>小别物语</title>
+    <link href="/06-Projects/%E5%B0%8F%E5%88%AB%E7%89%A9%E8%AF%AD.html"/>
+    <url>/06-Projects/%E5%B0%8F%E5%88%AB%E7%89%A9%E8%AF%AD.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><ol><li>跨平台</li><li>可添加功能</li><li>连接到家庭NAS–Ngrokk -小米球Ngrok、、tinc大内网，tailscale</li><li>多端同步</li><li>AI助手 图片+声音 openai whisper（buzz）</li></ol><h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><ol><li>文件管理</li></ol><h1 id="详细设计"><a href="#详细设计" class="headerlink" title="详细设计"></a>详细设计</h1><h2 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h2><ol><li>安卓ROOT，Linux deploy，centos<ol><li><a href="https://manager.xiaomiqiu.com/">https://manager.xiaomiqiu.com/</a></li></ol></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>06.Projects</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3D打印</title>
+    <link href="/06-Projects/3D%E6%89%93%E5%8D%B0.html"/>
+    <url>/06-Projects/3D%E6%89%93%E5%8D%B0.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="物体"><a href="#物体" class="headerlink" title="物体"></a>物体</h1><ol><li>电脑开机开关</li><li></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>06.Projects</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>SQL</title>
+    <link href="/05-Job/SQL.html"/>
+    <url>/05-Job/SQL.html</url>
+    
+    <content type="html"><![CDATA[<ol><li>关系型数据库：Mysql，oracle，sqlserver。数据结构，SQL语句，完整性约束。RDBMS</li><li>非关系型数据库:Redis</li><li>mysql 数据库引擎<ol><li>MyISAM 增删查改，InnoDB高级查询</li></ol></li><li>MySQL <a href="https://www.runoob.com/mysql/mysql-tutorial.html">https://www.runoob.com/mysql/mysql-tutorial.html</a></li></ol><h1 id="Mysql-安装"><a href="#Mysql-安装" class="headerlink" title="Mysql 安装"></a>Mysql 安装</h1><h2 id="Windows-MySQL-V8"><a href="#Windows-MySQL-V8" class="headerlink" title="Windows MySQL V8"></a>Windows MySQL V8</h2><ol><li><a href="https://dev.mysql.com/downloads/mysql/">MySQL :: Download MySQL Community Server</a></li><li>在根目录创建配置文件my.ini<figure class="highlight ini"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs ini"><span class="hljs-section">[client]</span><br><span class="hljs-comment"># 设置mysql客户端默认字符集</span><br><span class="hljs-attr">default-character-set</span>=utf8<br> <br><span class="hljs-section">[mysqld]</span><br><span class="hljs-comment"># 设置3306端口</span><br><span class="hljs-attr">port</span>=<span class="hljs-number">3306</span><br><span class="hljs-comment"># 设置mysql的安装目录</span><br><span class="hljs-attr">basedir</span>=???<br><span class="hljs-comment"># 设置 mysql数据库的数据的存放目录，MySQL 8+ 不需要以下配置，系统自己生成即可，否则有可能报错</span><br><span class="hljs-comment"># datadir=C:\\web\\sqldata</span><br><span class="hljs-comment"># 允许最大连接数</span><br><span class="hljs-attr">max_connections</span>=<span class="hljs-number">20</span><br><span class="hljs-comment"># 服务端使用的字符集默认为8比特编码的latin1字符集</span><br><span class="hljs-attr">character-set-server</span>=utf8<br><span class="hljs-comment"># 创建新表时将使用的默认存储引擎</span><br><span class="hljs-attr">default-storage-engine</span>=INNODB<br></code></pre></td></tr></table></figure></li><li>配置全局变量、命令行初始化<figure class="highlight brainfuck"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs brainfuck"><span class="hljs-comment">mysqld</span> <span class="hljs-literal">--</span><span class="hljs-comment">initialize</span> <span class="hljs-literal">--</span><span class="hljs-comment">console</span><br></code></pre></td></tr></table></figure>  报错vc，安装微软运行库合集</li><li>安装及启动服务命令<figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs dos">mysqld install<br><span class="hljs-built_in">net</span> <span class="hljs-built_in">start</span> mysql<br></code></pre></td></tr></table></figure></li><li>登录并修改密码<figure class="highlight pgsql"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs pgsql"><span class="hljs-keyword">ALTER</span> <span class="hljs-keyword">USER</span> <span class="hljs-string">&#x27;root&#x27;</span>@<span class="hljs-string">&#x27;localhost&#x27;</span> IDENTIFIED <span class="hljs-keyword">BY</span> <span class="hljs-string">&#x27;123456&#x27;</span>;<br></code></pre></td></tr></table></figure></li><li>允许远程连接(创建新root用户)<figure class="highlight pgsql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs pgsql"><span class="hljs-keyword">CREATE</span> <span class="hljs-keyword">USER</span> <span class="hljs-string">&#x27;root&#x27;</span>@<span class="hljs-string">&#x27;%&#x27;</span> IDENTIFIED <span class="hljs-keyword">BY</span> <span class="hljs-string">&#x27;root&#x27;</span>;<br><span class="hljs-keyword">grant</span> <span class="hljs-keyword">all</span> <span class="hljs-keyword">privileges</span> <span class="hljs-keyword">on</span> *.* <span class="hljs-keyword">to</span> <span class="hljs-string">&#x27;root&#x27;</span>@<span class="hljs-string">&#x27;%&#x27;</span> ;<br>FLUSH <span class="hljs-keyword">PRIVILEGES</span>;<br></code></pre></td></tr></table></figure></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>05.Job</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>03.Reference</title>
+    <link href="/04-BookMarks/03.Reference.html"/>
+    <url>/04-BookMarks/03.Reference.html</url>
+    
+    <content type="html"><![CDATA[<ol><li><a href="https://parrotsec-cn.org/t/linux-clash-dashboard/5169">linux下部署Clash+dashboard - 系统配置和定制 - ParrotSec中文社区 (parrotsec-cn.org)</a></li><li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon (exploit-db.com)</a> ^39edbf</li><li><a href="https://tool.chinaz.com/">站长工具 - 站长之家 (chinaz.com)</a> ^82c577</li></ol><h1 id="历史漏洞信息"><a href="#历史漏洞信息" class="headerlink" title="历史漏洞信息"></a>历史漏洞信息</h1><p>^1cc3dc</p><ol><li><a href="https://wy.zone.ci/">乌云(WooYun.org)历史漏洞查询—http://WY.ZONE.CI</a></li><li><a href="https://wooyun.kieran.top/#!/">WooYun知识库 (kieran.top)</a></li><li><a href="https://www.seebug.org/">知道创宇 Seebug 漏洞平台 - 洞悉漏洞，让你掌握前沿漏洞情报！</a></li><li></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>04.BookMarks</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>02.Coding</title>
+    <link href="/04-BookMarks/02.Coding.html"/>
+    <url>/04-BookMarks/02.Coding.html</url>
+    
+    <content type="html"><![CDATA[<ol><li><a href="https://www.runoob.com/">菜鸟教程</a></li><li><a href="https://github.com/ossu/computer-science">ossu&#x2F;computer-science: Path to a free self-taught education in Computer Science! (github.com)</a></li><li><a href="https://github.com/CyC2018/CS-Notes">CyC2018&#x2F;CS-Notes: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 (github.com)</a></li><li><a href="https://godbolt.org/">Compiler Explorer (godbolt.org)</a></li><li></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>04.BookMarks</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>01.Documents</title>
+    <link href="/04-BookMarks/01.Documents.html"/>
+    <url>/04-BookMarks/01.Documents.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="Obsidian"><a href="#Obsidian" class="headerlink" title="Obsidian"></a>Obsidian</h1><ol><li><a href="https://www.bilibili.com/video/BV1qx4y1u7YA/?spm_id_from=333.337.search-card.all.click&vd_source=2e37f3cd0a2876ad63ade79c22686d99">个人分享：Obsidian 项目&#x2F;任务&#x2F;时间管理流_哔哩哔哩_bilibili</a></li><li><a href="https://markdown.com.cn/">Markdown 官方教程</a></li><li></li></ol><h1 id="Clash"><a href="#Clash" class="headerlink" title="Clash"></a>Clash</h1><ol><li><a href="https://balala.io/">https://balala.io/</a></li><li><a href="https://helloshudong.com/">导航页 | GW树洞专用 (helloshudong.com)</a></li><li></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>04.BookMarks</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>StarCode</title>
+    <link href="/03-AIGC/StarCode.html"/>
+    <url>/03-AIGC/StarCode.html</url>
+    
+    <content type="html"><![CDATA[<ol><li>Text-generation-inference<figure class="highlight dockerfile"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs dockerfile">docker <span class="hljs-keyword">run</span><span class="language-bash"> -p 8080:80 -v <span class="hljs-variable">$PWD</span>/data:/data -e HUGGING_FACE_HUB_TOKEN=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  ghcr.io/huggingface/text-generation-inference:latest --model-id bigcode/starcoder --max-total-tokens 8192</span><br></code></pre></td></tr></table></figure></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>03.AIGC</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>01.学习任务</title>
+    <link href="/03-AIGC/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1.html"/>
+    <url>/03-AIGC/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1.html</url>
+    
+    <content type="html"><![CDATA[<p><del>1. 重制obsidian<br>    1. 简介<br>··2. 开始proxy<br>··3. ananconda 的HF拓展<br>4.codeGeex本地模型</del><br><del>5. starcoder本地模型(性能测试</del><br><del>6. <a href="https://github.com/adams549659584/go-proxy-bingai">adams549659584&#x2F;go-proxy-bingai: 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 (github.com)</a></del><br>7. </p><h2 id="what-i-got"><a href="#what-i-got" class="headerlink" title="what i got"></a>what i got</h2><ol><li>chatGLM-LongChain</li><li>RWKV</li><li>SD</li><li>RVC</li><li>shap-e</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>03.AIGC</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>04.渗透测试</title>
+    <link href="/02-Learning-Notes/04.%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95.html"/>
+    <url>/02-Learning-Notes/04.%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><ol><li>kali<ol><li>root-kali</li><li></li></ol></li></ol><h1 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h1><ol><li>确定目标</li><li>信息收集<ol><li>域名信息<ol><li>站长工具[[03.Reference#^82c577]]</li><li>whois</li><li>备案信息</li><li>whois反查</li></ol></li><li>子域名信息<ol><li>谷歌语法[[03.Reference#^39edbf]]</li><li>站长工具[[03.Reference#^82c577]]</li><li>网络空间搜索引擎[[01.Accounts#^c46c9b]]</li><li>ssl证书查询<a href="https://crt.sh/">crt.sh | Certificate Search</a></li><li>JSFinder <a href="https://github.com/Threezh1/JSFinder">https://github.com/Threezh1/JSFinder</a></li><li>爆破，Google子域名爆破； 工具<ol><li>One for All <a href="https://github.com/shmilylty/OneForAll">https://github.com/shmilylty/OneForAll</a></li><li>api.cnf    setting.cnf</li><li>subdomainBrute <a href="https://github.com/lijiejie/subDomainsBrute">https://github.com/lijiejie/subDomainsBrute</a></li></ol></li></ol></li><li>IP信息收集<ol><li>站长工具[[03.Reference#^82c577]]</li><li>CDN<ol><li>多地ping，站长工具[[03.Reference#^82c577]]</li><li>国外ping访问<ol><li><a href="http://www.webkaka.com/">http://www.webkaka.com/</a></li></ol></li><li>查询子域名IP</li><li>绕过CDN<ol><li>phpinfo文件server_ADDR  ？</li><li>Mx记录邮件服务，查看邮件原文，eml文件</li></ol></li><li>查找历史DNS记录<ol><li><a href="https://www.dnsdb.io/zh-cn/">DNSDB</a></li><li>securityTrails[[01.Accounts#^8a0f30]]</li></ol></li></ol></li><li>C段主机存活探测<ol><li>Nmap<a href="https://nmap.org/man/zh/index.html">Nmap参考指南</a></li><li><a href="https://github.com/se55i0n/Cwebscanner/tree/master">CwebScanner</a>(python2)</li></ol></li><li>端口信息收集<ol><li>主要端口<ol><li>0-1023</li><li>1024-49151</li><li>49152-65535</li></ol></li></ol></li></ol></li><li>其它<ol><li>历史漏洞[[03.Reference#^1cc3dc]]</li><li>社会工程学<ol><li>钓鱼邮件&#x2F;页面</li></ol></li></ol></li><li>网站信息收集</li></ol></li><li>漏洞探测</li><li>漏洞分析</li><li>漏洞利用</li><li>信息整理</li><li>形成报告</li></ol><h1 id="端口"><a href="#端口" class="headerlink" title="端口"></a>端口</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>02.Learning Notes</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>03.Leetcoder</title>
+    <link href="/02-Learning-Notes/03.Leetcoder.html"/>
+    <url>/02-Learning-Notes/03.Leetcoder.html</url>
+    
+    <content type="html"><![CDATA[<p><a href="https://github.com/youngyangyang04/leetcode-master">https://github.com/youngyangyang04/leetcode-master</a></p><h1 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h1><ol><li>两数之和&#x3D;两数之差(Map&#x2F;HashMap)</li><li></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>02.Learning Notes</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>02.C++</title>
+    <link href="/02-Learning-Notes/02.C++.html"/>
+    <url>/02-Learning-Notes/02.C++.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="C-基础知识点"><a href="#C-基础知识点" class="headerlink" title="C++基础知识点"></a>C++基础知识点</h1><ol><li><a href="https://www.bilibili.com/video/BV1z7411t75i/?spm_id_from=333.337.search-card.all.click&vd_s1ource=2e37f3cd0a2876ad63ade79c22686d99">【C++进阶】最硬核的进阶课程全是干货_哔哩哔哩_bilibili</a></li><li>Rust</li><li>面向过程和面向对象</li><li>C++对C的增强<ol><li>namespace</li><li>实用性</li><li>register关键字</li><li>变量检测</li><li>struct类型加强</li><li>所有变量和类型必须有类型</li><li>新增bool类型</li><li>三目运算符，表达式返回内存空间</li></ol></li><li>const在c语言中不绝对，const和#define </li><li>引用的本质，函数返回值为引用(作左值)。指针的引用。常量引用。</li><li>inline内联函数，函数默认、占位参数参数。</li><li>函数重载,函数指针</li><li>C++面向对象模型：成员和函数分开存储，this指针</li><li>C++中构造函数和析构函数，类的初始化和赋值，逗号表达式，匿名对象</li><li>构造函数的生成和调用规则，深拷贝和浅拷贝，初始化列表</li><li>new和delete、malloc和free</li><li>静态成员变量和函数，const成员函数，友元函数和友元类friend</li><li>运算符重载 ，单目做操作重载</li><li>继承，派生类，访问控制，兼容性，构造和析构，域作用符，继承的static关键字，多继承的二义性</li><li>多态, 静态&#x2F;动态联编，虚析构函数：通过父类<code>指针</code>把所有的子类对象的析构函数都执行一边，释放所有的子类资源，避免内存泄漏等问题。</li><li>多态成立三个条件。原理：类的虚函数表，实例化时添加vptr指针&#x3D;&#x3D;&gt;虚函数表&#x3D;&#x3D;&gt;函数的入口地址</li><li>vptr指针的分步初始化：子类实例化时执行父类构造函数时指向父类虚函数表，构造函数完成后指向子类的虚函数表</li><li><a href="https://www.bilibili.com/video/BV1u741187oa/?p=128&spm_id_from=pageDriver&vd_source=2e37f3cd0a2876ad63ade79c22686d99">多态面试题</a></li><li>重载 重写和重定义，父类指针和子类指针的步长不同，no数组多态</li><li>抽象类，接口。面向抽象类编程</li><li>typedef定义类型 数组类型、函数指针和函数指针类型，函数指针做函数参数，函数指针正向调用&#x3D;&#x3D;&gt;dll框架</li><li>函数模板，函数重载和函数重载,&lt;&gt;类型列表，编译器函数模板机制原理&#x3D;&#x3D;&gt;两次编译 </li><li>类模板，子类派生时具体化，从模板类派生模板类</li></ol><h1 id="C-刷题要点"><a href="#C-刷题要点" class="headerlink" title="C++刷题要点"></a>C++刷题要点</h1><h2 id="刷题网站"><a href="#刷题网站" class="headerlink" title="刷题网站"></a>刷题网站</h2><p><a href="https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225">牛客网在线编程_编程学习|练习题_数据结构|系统设计题库 (nowcoder.com)</a></p><h2 id="面试题"><a href="#面试题" class="headerlink" title="面试题"></a>面试题</h2><p><a href="https://zhuanlan.zhihu.com/p/31451123">【C++】C++常见面试题汇总_持续更新中… - 知乎 (zhihu.com)</a></p><h1 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h1><h2 id="C动态库升级成框架"><a href="#C动态库升级成框架" class="headerlink" title="C动态库升级成框架"></a>C动态库升级成框架</h2><ol><li>在动态库的内部提前定义号一套接口（函数指针类型的定义）</li><li>在动态库的外部发布一套接口协议(.h)</li><li>厂商根据.h实现函数原型(编写子任务)</li><li>把厂商函数的入口地址注入到框架中</li><li>在框架中回调第三方任务</li></ol><h1 id="GNU"><a href="#GNU" class="headerlink" title="GNU"></a>GNU</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>02.Learning Notes</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>01.学习任务</title>
+    <link href="/02-Learning-Notes/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1.html"/>
+    <url>/02-Learning-Notes/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="求职相关"><a href="#求职相关" class="headerlink" title="求职相关"></a>求职相关</h1><ol><li>力扣<ol><li><a href="https://leetcode.cn/tag/array/problemset/">数组知识点题库 - 力扣（LeetCode）</a></li></ol></li></ol><h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><ol><li>C嵌入式(C++)</li><li>渗透测试</li></ol><h1 id="兴趣相关"><a href="#兴趣相关" class="headerlink" title="兴趣相关"></a>兴趣相关</h1><ol><li>博客网页<ol><li>microsoft IIS</li></ol></li><li>3D</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>02.Learning Notes</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Webui + Novel Ai绘画</title>
+    <link href="/07-Environment-deploy/Webui%20+%20Novel%20Ai%E7%BB%98%E7%94%BB.html"/>
+    <url>/07-Environment-deploy/Webui%20+%20Novel%20Ai%E7%BB%98%E7%94%BB.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="非整合包-x2F-GitHub安装-x2F-手动安装"><a href="#非整合包-x2F-GitHub安装-x2F-手动安装" class="headerlink" title="非整合包&#x2F;GitHub安装&#x2F;手动安装"></a>非整合包&#x2F;GitHub安装&#x2F;手动安装</h1><ol><li><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">项目官网</a></li><li>如出错，先科学上网，全局代理,基本上是git无法下载</li><li>解压、将python3.10环境目录替换到 table-diffusion-webui-master\venv\pyvenv.cfg 运行table-diffusion-webui-master\webui-user.bat 初始化安装<ol><li>若出现 torch安装报错，python版本错误，替换python版本为3.10</li><li>若gfpgan等GitHub项目下载安装出错，则手动安装<ol><li>table-diffusion-webui-master\lanch.py 中检索gfpgan，查看所有GitHub项目地址，手动下载解压至stable-diffusion-webui-master\venv\Scripts ，进入各目录终端执行：</li></ol></li></ol></li></ol><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs vim">../<span class="hljs-keyword">python</span>.<span class="hljs-keyword">exe</span> -<span class="hljs-keyword">m</span> pip install -r requirements.txt<br>../<span class="hljs-keyword">python</span>.<span class="hljs-keyword">exe</span> setup.<span class="hljs-keyword">py</span> develop<br></code></pre></td></tr></table></figure><p>至于stable-diffusion-stability等repositories内容，手动git到stable-diffusion-webui-master\repositories目录下，并更改为指定名</p><h2 id="或者在lanch-py文件中搜索gfpgan，将所有的github网址前添加代理https-ghproxy-com"><a href="#或者在lanch-py文件中搜索gfpgan，将所有的github网址前添加代理https-ghproxy-com" class="headerlink" title="或者在lanch.py文件中搜索gfpgan，将所有的github网址前添加代理https://ghproxy.com/"></a>或者在lanch.py文件中搜索gfpgan，将所有的github网址前添加代理<a href="https://ghproxy.com/">https://ghproxy.com/</a></h2><ol start="4"><li>运行过程中，会根据使用的功能下载安装对应的git项目、</li></ol><h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><p>组件分为：</p><ol><li><p>stable-diffusion模型和vae滤镜<br> 路径：stable-diffusion-webui-master\models\Stable-diffusion<br> 模型下载：<a href="https://civitai.com/">Civitai</a> ，b站分享，<a href="https://rentry.org/sdmodels#stable-diffusion-v15-81761151-a9263745">Stable Diffusion Models</a>, <a href="https://huggingface.co/">Hugging Face</a></p></li><li><p>拓展插件(git 和第三方url)</p><ol><li>Lora插件<ol><li>additional-networks，拓展网络，增加偏向拟合<ol><li>添加模型，路径：stable-diffusion-webui-master\extensions\sd-webui-additional-networks\models\lora</li><li>模型下载：<a href="https://civitai.com/">Civitai</a></li></ol></li><li>ControlNet 控制姿势和轮廓<ol><li>添加模型 路径：stable-diffusion-webui-master\models\ControlNet</li><li>项目下载地址:<a href="https://huggingface.co/lllyasviel/ControlNet/tree/main/models">https://huggingface.co/lllyasviel/ControlNet/tree/main/models</a></li></ol></li></ol></li></ol></li><li><p>使用注意：</p><ol><li>启动参数，gtx964，若使用ControlNet,则添加 –medvram至webui-user.bat</li><li>不添加启动参数，则相同参数下效果更好</li><li><a href="https://thereisnospon.github.io/NovelAiTag/">选择tag–NovelAI魔导书</a></li><li><a href="https://tags.novelai.dev/">Danbooru 标签超市 (novelai.dev)</a></li><li>settings-paths for saving 输出目录 H:\AiOutput</li><li></li></ol></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>07.Environment deploy</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Ubuntu配置</title>
+    <link href="/07-Environment-deploy/Ubuntu%E9%85%8D%E7%BD%AE.html"/>
+    <url>/07-Environment-deploy/Ubuntu%E9%85%8D%E7%BD%AE.html</url>
+    
+    <content type="html"><![CDATA[<ol><li>换源</li><li>装ssh</li><li>ftp服务</li><li></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>07.Environment deploy</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Solidworks</title>
+    <link href="/07-Environment-deploy/Solidworks.html"/>
+    <url>/07-Environment-deploy/Solidworks.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="solidworks2016"><a href="#solidworks2016" class="headerlink" title="solidworks2016"></a>solidworks2016</h1><pre><code class="hljs">1. 安装包和破解文件2. 卸载VBA，执行清理3. 添加破解注册表项4. 断网、修改输入法为英文\中文尝试、单显示器5. 安装时更改位置6. 安装时出现“愿意更新license吗？” 先选 否，再选 是7. 安装后，关闭solidworks启动项、关闭solidwors相关两个服务服务,打开FlexNet  Licensing Service两个服务，重启8. 管理员运行破解软件，选择2016，一般在一分钟左右，时间长了就重开，（或者联网破解）9. 打开solidworks测试10. 打开网络</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>07.Environment deploy</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Qt</title>
+    <link href="/07-Environment-deploy/Qt.html"/>
+    <url>/07-Environment-deploy/Qt.html</url>
+    
+    <content type="html"><![CDATA[<ol><li><a href="https://mirrors.tuna.tsinghua.edu.cn/qt/development_releases/online_installers/">安装</a> <ol><li>在线安装<ol><li>管理员运行安装包</li><li>账密：<a href="mailto:&#50;&#x32;&#x36;&#50;&#57;&#x34;&#55;&#x30;&#x31;&#x35;&#64;&#x6f;&#x75;&#116;&#108;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;">&#50;&#x32;&#x36;&#50;&#57;&#x34;&#55;&#x30;&#x31;&#x35;&#64;&#x6f;&#x75;&#116;&#108;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;</a><br> Tt1012811367</li><li>组件清单换清华源<a href="https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/">https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/</a></li><li>网络出错时<del>download.qt.io</del>，挂梯子。</li></ol></li><li>源码编译安装</li></ol></li><li><a href="https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/root/qt/">维护</a></li><li>添加到vs</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>07.Environment deploy</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
