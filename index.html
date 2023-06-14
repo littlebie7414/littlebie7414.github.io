@@ -73,6 +73,450 @@
       <div class="outer">
         <section id="main">
   
+    <article id="post-02.Learning Notes/渗透测试" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/02.Learning%20Notes/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.771Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><ol>
+<li>kali<ol>
+<li>root-kali</li>
+<li></li>
+</ol>
+</li>
+</ol>
+<h1 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h1><ol>
+<li>确定目标</li>
+<li>信息收集<ol>
+<li>域名信息<ol>
+<li>站长工具[[03.Reference#^82c577]]</li>
+<li>whois</li>
+<li>备案信息</li>
+<li>whois反查</li>
+</ol>
+</li>
+<li>子域名信息<ol>
+<li>谷歌语法[[03.Reference#^39edbf]]</li>
+<li>站长工具[[03.Reference#^82c577]]</li>
+<li>网络空间搜索引擎[[01.Accounts#^c46c9b]]</li>
+<li>ssl证书查询<a target="_blank" rel="noopener" href="https://crt.sh/">crt.sh | Certificate Search</a></li>
+<li>JSFinder <a target="_blank" rel="noopener" href="https://github.com/Threezh1/JSFinder">https://github.com/Threezh1/JSFinder</a></li>
+<li>爆破，Google子域名爆破； 工具<ol>
+<li>One for All <a target="_blank" rel="noopener" href="https://github.com/shmilylty/OneForAll">https://github.com/shmilylty/OneForAll</a></li>
+<li>api.cnf    setting.cnf</li>
+<li>subdomainBrute <a target="_blank" rel="noopener" href="https://github.com/lijiejie/subDomainsBrute">https://github.com/lijiejie/subDomainsBrute</a></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>IP信息收集<ol>
+<li>站长工具[[03.Reference#^82c577]]</li>
+<li>CDN<ol>
+<li>多地ping，站长工具[[03.Reference#^82c577]]</li>
+<li>国外ping访问<ol>
+<li><a target="_blank" rel="noopener" href="http://www.webkaka.com/">http://www.webkaka.com/</a></li>
+</ol>
+</li>
+<li>查询子域名IP</li>
+<li>绕过CDN<ol>
+<li>phpinfo文件server_ADDR  ？</li>
+<li>Mx记录邮件服务，查看邮件原文，eml文件</li>
+</ol>
+</li>
+<li>查找历史DNS记录<ol>
+<li><a target="_blank" rel="noopener" href="https://www.dnsdb.io/zh-cn/">DNSDB</a></li>
+<li>securityTrails[[01.Accounts#^8a0f30]]</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>C段主机存活探测<ol>
+<li>Nmap<a target="_blank" rel="noopener" href="https://nmap.org/man/zh/index.html">Nmap参考指南</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/se55i0n/Cwebscanner/tree/master">CwebScanner</a>(python2)</li>
+</ol>
+</li>
+<li>端口信息收集<ol>
+<li>主要端口<ol>
+<li>0-1023</li>
+<li>1024-49151</li>
+<li>49152-65535</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>其它<ol>
+<li>历史漏洞[[03.Reference#^1cc3dc]]</li>
+<li>社会工程学<ol>
+<li>钓鱼邮件&#x2F;页面</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>网站信息收集</li>
+</ol>
+</li>
+<li>漏洞探测</li>
+<li>漏洞分析</li>
+<li>漏洞利用</li>
+<li>信息整理</li>
+<li>形成报告</li>
+</ol>
+<h1 id="端口"><a href="#端口" class="headerlink" title="端口"></a>端口</h1>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/02.Learning%20Notes/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/" data-id="cliv6qo6m0004s4rv3kbs3gy8" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-02.Learning Notes/03.Leetcoder" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/02.Learning%20Notes/03.Leetcoder/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.766Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p><a target="_blank" rel="noopener" href="https://github.com/youngyangyang04/leetcode-master">https://github.com/youngyangyang04/leetcode-master</a></p>
+<h1 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h1><ol>
+<li>两数之和&#x3D;两数之差(Map&#x2F;HashMap)</li>
+<li></li>
+</ol>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/02.Learning%20Notes/03.Leetcoder/" data-id="cliv6qo6l0003s4rvh5wvgff8" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-02.Learning Notes/02.C++" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/02.Learning%20Notes/02.C++/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.762Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id="C-基础知识点"><a href="#C-基础知识点" class="headerlink" title="C++基础知识点"></a>C++基础知识点</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1z7411t75i/?spm_id_from=333.337.search-card.all.click&vd_s1ource=2e37f3cd0a2876ad63ade79c22686d99">【C++进阶】最硬核的进阶课程全是干货_哔哩哔哩_bilibili</a></li>
+<li>Rust</li>
+<li>面向过程和面向对象</li>
+<li>C++对C的增强<ol>
+<li>namespace</li>
+<li>实用性</li>
+<li>register关键字</li>
+<li>变量检测</li>
+<li>struct类型加强</li>
+<li>所有变量和类型必须有类型</li>
+<li>新增bool类型</li>
+<li>三目运算符，表达式返回内存空间</li>
+</ol>
+</li>
+<li>const在c语言中不绝对，const和#define </li>
+<li>引用的本质，函数返回值为引用(作左值)。指针的引用。常量引用。</li>
+<li>inline内联函数，函数默认、占位参数参数。</li>
+<li>函数重载,函数指针</li>
+<li>C++面向对象模型：成员和函数分开存储，this指针</li>
+<li>C++中构造函数和析构函数，类的初始化和赋值，逗号表达式，匿名对象</li>
+<li>构造函数的生成和调用规则，深拷贝和浅拷贝，初始化列表</li>
+<li>new和delete、malloc和free</li>
+<li>静态成员变量和函数，const成员函数，友元函数和友元类friend</li>
+<li>运算符重载 ，单目做操作重载</li>
+<li>继承，派生类，访问控制，兼容性，构造和析构，域作用符，继承的static关键字，多继承的二义性</li>
+<li>多态, 静态&#x2F;动态联编，虚析构函数：通过父类<code>指针</code>把所有的子类对象的析构函数都执行一边，释放所有的子类资源，避免内存泄漏等问题。</li>
+<li>多态成立三个条件。原理：类的虚函数表，实例化时添加vptr指针&#x3D;&#x3D;&gt;虚函数表&#x3D;&#x3D;&gt;函数的入口地址</li>
+<li>vptr指针的分步初始化：子类实例化时执行父类构造函数时指向父类虚函数表，构造函数完成后指向子类的虚函数表</li>
+<li><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1u741187oa/?p=128&spm_id_from=pageDriver&vd_source=2e37f3cd0a2876ad63ade79c22686d99">多态面试题</a></li>
+<li>重载 重写和重定义，父类指针和子类指针的步长不同，no数组多态</li>
+<li>抽象类，接口。面向抽象类编程</li>
+<li>typedef定义类型 数组类型、函数指针和函数指针类型，函数指针做函数参数，函数指针正向调用&#x3D;&#x3D;&gt;dll框架</li>
+<li>函数模板，函数重载和函数重载,&lt;&gt;类型列表，编译器函数模板机制原理&#x3D;&#x3D;&gt;两次编译 </li>
+<li>类模板，子类派生时具体化，从模板类派生模板类</li>
+</ol>
+<h1 id="C-刷题要点"><a href="#C-刷题要点" class="headerlink" title="C++刷题要点"></a>C++刷题要点</h1><h2 id="刷题网站"><a href="#刷题网站" class="headerlink" title="刷题网站"></a>刷题网站</h2><p><a target="_blank" rel="noopener" href="https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225">牛客网在线编程_编程学习|练习题_数据结构|系统设计题库 (nowcoder.com)</a></p>
+<h2 id="面试题"><a href="#面试题" class="headerlink" title="面试题"></a>面试题</h2><p><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/31451123">【C++】C++常见面试题汇总_持续更新中… - 知乎 (zhihu.com)</a></p>
+<h1 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h1><h2 id="C动态库升级成框架"><a href="#C动态库升级成框架" class="headerlink" title="C动态库升级成框架"></a>C动态库升级成框架</h2><ol>
+<li>在动态库的内部提前定义号一套接口（函数指针类型的定义）</li>
+<li>在动态库的外部发布一套接口协议(.h)</li>
+<li>厂商根据.h实现函数原型(编写子任务)</li>
+<li>把厂商函数的入口地址注入到框架中</li>
+<li>在框架中回调第三方任务</li>
+</ol>
+<h1 id="GNU"><a href="#GNU" class="headerlink" title="GNU"></a>GNU</h1>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/02.Learning%20Notes/02.C++/" data-id="cliv6qo6k0002s4rv8zs61m54" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-02.Learning Notes/01.学习任务" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/02.Learning%20Notes/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.757Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id="求职相关"><a href="#求职相关" class="headerlink" title="求职相关"></a>求职相关</h1><ol>
+<li>力扣<ol>
+<li><a target="_blank" rel="noopener" href="https://leetcode.cn/tag/array/problemset/">数组知识点题库 - 力扣（LeetCode）</a></li>
+</ol>
+</li>
+</ol>
+<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><ol>
+<li>C嵌入式(C++)</li>
+<li>渗透测试</li>
+</ol>
+<h1 id="兴趣相关"><a href="#兴趣相关" class="headerlink" title="兴趣相关"></a>兴趣相关</h1><ol>
+<li>博客网页<ol>
+<li>microsoft IIS</li>
+</ol>
+</li>
+<li>3D</li>
+</ol>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/02.Learning%20Notes/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/" data-id="cliv6qo6h0001s4rv3ad0gibe" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-04.BookMarks/03.Reference" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/04.BookMarks/03.Reference/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.746Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <ol>
+<li><a target="_blank" rel="noopener" href="https://parrotsec-cn.org/t/linux-clash-dashboard/5169">linux下部署Clash+dashboard - 系统配置和定制 - ParrotSec中文社区 (parrotsec-cn.org)</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon (exploit-db.com)</a> ^39edbf</li>
+<li><a target="_blank" rel="noopener" href="https://tool.chinaz.com/">站长工具 - 站长之家 (chinaz.com)</a> ^82c577</li>
+</ol>
+<h1 id="历史漏洞信息"><a href="#历史漏洞信息" class="headerlink" title="历史漏洞信息"></a>历史漏洞信息</h1><p>^1cc3dc</p>
+<ol>
+<li><a target="_blank" rel="noopener" href="https://wy.zone.ci/">乌云(WooYun.org)历史漏洞查询—http://WY.ZONE.CI</a></li>
+<li><a target="_blank" rel="noopener" href="https://wooyun.kieran.top/#!/">WooYun知识库 (kieran.top)</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.seebug.org/">知道创宇 Seebug 漏洞平台 - 洞悉漏洞，让你掌握前沿漏洞情报！</a></li>
+<li></li>
+</ol>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/04.BookMarks/03.Reference/" data-id="cliv6qo6q0009s4rvcnra3a2o" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-04.BookMarks/02.Coding" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/04.BookMarks/02.Coding/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.740Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <ol>
+<li><a target="_blank" rel="noopener" href="https://www.runoob.com/">菜鸟教程</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/ossu/computer-science">ossu&#x2F;computer-science: Path to a free self-taught education in Computer Science! (github.com)</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/CyC2018/CS-Notes">CyC2018&#x2F;CS-Notes: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 (github.com)</a></li>
+<li><a target="_blank" rel="noopener" href="https://godbolt.org/">Compiler Explorer (godbolt.org)</a></li>
+<li></li>
+</ol>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/04.BookMarks/02.Coding/" data-id="cliv6qo6p0008s4rv5gpr0rhv" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-04.BookMarks/01.Documents" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/04.BookMarks/01.Documents/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.735Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id="Obsidian"><a href="#Obsidian" class="headerlink" title="Obsidian"></a>Obsidian</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1qx4y1u7YA/?spm_id_from=333.337.search-card.all.click&vd_source=2e37f3cd0a2876ad63ade79c22686d99">个人分享：Obsidian 项目&#x2F;任务&#x2F;时间管理流_哔哩哔哩_bilibili</a></li>
+<li><a target="_blank" rel="noopener" href="https://markdown.com.cn/">Markdown 官方教程</a></li>
+<li></li>
+</ol>
+<h1 id="Clash"><a href="#Clash" class="headerlink" title="Clash"></a>Clash</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://balala.io/">https://balala.io/</a></li>
+<li><a target="_blank" rel="noopener" href="https://helloshudong.com/">导航页 | GW树洞专用 (helloshudong.com)</a></li>
+<li></li>
+</ol>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/04.BookMarks/01.Documents/" data-id="cliv6qo6p0007s4rv2o7oej0d" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-03.AIGC/StarCode" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/03.AIGC/StarCode/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.726Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <ol>
+<li>Text-generation-inference<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker run -p 8080:80 -v $PWD/data:/data -e HUGGING_FACE_HUB_TOKEN=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  ghcr.io/huggingface/text-generation-inference:latest --model-id bigcode/starcoder --max-total-tokens 8192</span><br></pre></td></tr></table></figure></li>
+</ol>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/03.AIGC/StarCode/" data-id="cliv6qo6o0006s4rvf9q5h8qa" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-03.AIGC/01.学习任务" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/03.AIGC/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.720Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p><del>1. 重制obsidian<br>    1. 简介<br>··2. 开始proxy<br>··3. ananconda 的HF拓展<br>4.codeGeex本地模型</del><br><del>5. starcoder本地模型(性能测试</del><br><del>6. <a target="_blank" rel="noopener" href="https://github.com/adams549659584/go-proxy-bingai">adams549659584&#x2F;go-proxy-bingai: 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 (github.com)</a></del><br>7. </p>
+<h2 id="what-i-got"><a href="#what-i-got" class="headerlink" title="what i got"></a>what i got</h2><ol>
+<li>chatGLM-LongChain</li>
+<li>RWKV</li>
+<li>SD</li>
+<li>RVC</li>
+<li>shap-e</li>
+</ol>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/03.AIGC/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/" data-id="cliv6qo6n0005s4rvd9w64hsc" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
     <article id="post-hello-world" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
     <a href="/2023/06/14/hello-world/" class="article-date">
@@ -112,7 +556,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/2023/06/14/hello-world/" data-id="cliv5vt2c0000aorvagd609nf" data-title="Hello World" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      <a data-url="http://example.com/2023/06/14/hello-world/" data-id="cliv6qo690000s4rv297q7yfe" data-title="Hello World" class="article-share-link"><span class="fa fa-share">Share</span></a>
       
       
       
@@ -155,7 +599,23 @@
       <ul>
         
           <li>
-            <a href="/2023/06/14/hello-world/">Hello World</a>
+            <a href="/2023/06/14/02.Learning%20Notes/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/02.Learning%20Notes/03.Leetcoder/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/02.Learning%20Notes/02.C++/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/02.Learning%20Notes/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/04.BookMarks/03.Reference/">(no title)</a>
           </li>
         
       </ul>

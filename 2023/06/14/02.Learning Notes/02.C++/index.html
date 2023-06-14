@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  
+  <title>Hexo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="C++基础知识点 【C++进阶】最硬核的进阶课程全是干货_哔哩哔哩_bilibili Rust 面向过程和面向对象 C++对C的增强 namespace 实用性 register关键字 变量检测 struct类型加强 所有变量和类型必须有类型 新增bool类型 三目运算符，表达式返回内存空间   const在c语言中不绝对，const和#define  引用的本质，函数返回值为引用(作左值)。指针">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hexo">
+<meta property="og:url" content="http://example.com/2023/06/14/02.Learning%20Notes/02.C++/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="C++基础知识点 【C++进阶】最硬核的进阶课程全是干货_哔哩哔哩_bilibili Rust 面向过程和面向对象 C++对C的增强 namespace 实用性 register关键字 变量检测 struct类型加强 所有变量和类型必须有类型 新增bool类型 三目运算符，表达式返回内存空间   const在c语言中不绝对，const和#define  引用的本质，函数返回值为引用(作左值)。指针">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-06-14T03:57:46.762Z">
+<meta property="article:modified_time" content="2023-04-25T09:12:16.233Z">
+<meta property="article:author" content="John Doe">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/favicon.png">
+  
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-source-code-pro@0.0.71/index.min.css">
+
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Hexo</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"><span class="fa fa-bars"></span></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+        
+          <a class="nav-icon" href="/atom.xml" title="RSS Feed"><span class="fa fa-rss"></span></a>
+        
+        <a class="nav-icon nav-search-btn" title="Search"><span class="fa fa-search"></span></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main"><article id="post-02.Learning Notes/02.C++" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2023/06/14/02.Learning%20Notes/02.C++/" class="article-date">
+  <time class="dt-published" datetime="2023-06-14T03:57:46.762Z" itemprop="datePublished">2023-06-14</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id="C-基础知识点"><a href="#C-基础知识点" class="headerlink" title="C++基础知识点"></a>C++基础知识点</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1z7411t75i/?spm_id_from=333.337.search-card.all.click&vd_s1ource=2e37f3cd0a2876ad63ade79c22686d99">【C++进阶】最硬核的进阶课程全是干货_哔哩哔哩_bilibili</a></li>
+<li>Rust</li>
+<li>面向过程和面向对象</li>
+<li>C++对C的增强<ol>
+<li>namespace</li>
+<li>实用性</li>
+<li>register关键字</li>
+<li>变量检测</li>
+<li>struct类型加强</li>
+<li>所有变量和类型必须有类型</li>
+<li>新增bool类型</li>
+<li>三目运算符，表达式返回内存空间</li>
+</ol>
+</li>
+<li>const在c语言中不绝对，const和#define </li>
+<li>引用的本质，函数返回值为引用(作左值)。指针的引用。常量引用。</li>
+<li>inline内联函数，函数默认、占位参数参数。</li>
+<li>函数重载,函数指针</li>
+<li>C++面向对象模型：成员和函数分开存储，this指针</li>
+<li>C++中构造函数和析构函数，类的初始化和赋值，逗号表达式，匿名对象</li>
+<li>构造函数的生成和调用规则，深拷贝和浅拷贝，初始化列表</li>
+<li>new和delete、malloc和free</li>
+<li>静态成员变量和函数，const成员函数，友元函数和友元类friend</li>
+<li>运算符重载 ，单目做操作重载</li>
+<li>继承，派生类，访问控制，兼容性，构造和析构，域作用符，继承的static关键字，多继承的二义性</li>
+<li>多态, 静态&#x2F;动态联编，虚析构函数：通过父类<code>指针</code>把所有的子类对象的析构函数都执行一边，释放所有的子类资源，避免内存泄漏等问题。</li>
+<li>多态成立三个条件。原理：类的虚函数表，实例化时添加vptr指针&#x3D;&#x3D;&gt;虚函数表&#x3D;&#x3D;&gt;函数的入口地址</li>
+<li>vptr指针的分步初始化：子类实例化时执行父类构造函数时指向父类虚函数表，构造函数完成后指向子类的虚函数表</li>
+<li><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1u741187oa/?p=128&spm_id_from=pageDriver&vd_source=2e37f3cd0a2876ad63ade79c22686d99">多态面试题</a></li>
+<li>重载 重写和重定义，父类指针和子类指针的步长不同，no数组多态</li>
+<li>抽象类，接口。面向抽象类编程</li>
+<li>typedef定义类型 数组类型、函数指针和函数指针类型，函数指针做函数参数，函数指针正向调用&#x3D;&#x3D;&gt;dll框架</li>
+<li>函数模板，函数重载和函数重载,&lt;&gt;类型列表，编译器函数模板机制原理&#x3D;&#x3D;&gt;两次编译 </li>
+<li>类模板，子类派生时具体化，从模板类派生模板类</li>
+</ol>
+<h1 id="C-刷题要点"><a href="#C-刷题要点" class="headerlink" title="C++刷题要点"></a>C++刷题要点</h1><h2 id="刷题网站"><a href="#刷题网站" class="headerlink" title="刷题网站"></a>刷题网站</h2><p><a target="_blank" rel="noopener" href="https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225">牛客网在线编程_编程学习|练习题_数据结构|系统设计题库 (nowcoder.com)</a></p>
+<h2 id="面试题"><a href="#面试题" class="headerlink" title="面试题"></a>面试题</h2><p><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/31451123">【C++】C++常见面试题汇总_持续更新中… - 知乎 (zhihu.com)</a></p>
+<h1 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h1><h2 id="C动态库升级成框架"><a href="#C动态库升级成框架" class="headerlink" title="C动态库升级成框架"></a>C动态库升级成框架</h2><ol>
+<li>在动态库的内部提前定义号一套接口（函数指针类型的定义）</li>
+<li>在动态库的外部发布一套接口协议(.h)</li>
+<li>厂商根据.h实现函数原型(编写子任务)</li>
+<li>把厂商函数的入口地址注入到框架中</li>
+<li>在框架中回调第三方任务</li>
+</ol>
+<h1 id="GNU"><a href="#GNU" class="headerlink" title="GNU"></a>GNU</h1>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2023/06/14/02.Learning%20Notes/02.C++/" data-id="cliv6qo6k0002s4rv8zs61m54" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2023/06/14/02.Learning%20Notes/03.Leetcoder/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          (no title)
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2023/06/14/02.Learning%20Notes/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title"></div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/06/">June 2023</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2023/06/14/02.Learning%20Notes/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/02.Learning%20Notes/03.Leetcoder/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/02.Learning%20Notes/02.C++/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/02.Learning%20Notes/01.%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/04.BookMarks/03.Reference/">(no title)</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2023 John Doe<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+
+<script src="/js/jquery-3.6.4.min.js"></script>
+
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+
+  </div>
+</body>
+</html>
